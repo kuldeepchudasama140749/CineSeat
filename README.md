@@ -5,7 +5,7 @@ A complete movie ticket booking website (like PVR / BookMyShow) built with
 **pure HTML, CSS and vanilla JavaScript**. There is no framework, no backend
 and no build step — the browser's **localStorage** is used as the database.
 
-> Web Design Project · B.Tech CSE 2nd Year · Continuous Assessment
+> Web Design Project ·
 
 ---
 
